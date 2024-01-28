@@ -13,7 +13,7 @@ class Header extends StatelessWidget {
             colors: <Color>[
               Color.fromRGBO(103, 99, 234, 1.0),
               Color.fromRGBO(155, 105, 254, 1.0),
-              Color.fromRGBO(195, 107, 255, 1.0)
+              Color.fromRGBO(195, 107, 255, 1.0),
             ],
           ),
           borderRadius: BorderRadius.vertical(bottom: Radius.circular(10))),
